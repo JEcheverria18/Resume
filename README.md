@@ -1,5 +1,5 @@
 ## Resume
-
+copy (member to remove later)
 The repository was created to present the source code for my professional resume. LaTeX was used because it offers many tools to customize the presentation of my one-page resume.
 The script was then compiled through TexWorks (XeLateX).
 
